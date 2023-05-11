@@ -1,0 +1,36 @@
+.index {
+    position: fixed;
+    width: 200px;
+    height: 700px;
+    float: left;
+    padding: 50px;
+}
+
+.title {
+    position: fixed;
+    left: 315px;
+    width: 1450px;
+    height: 20px;
+    border: solid;
+    border-radius: 10px 10px 10px 10px / 10px 10px 10px 10px;
+    float: left;
+    padding: 50px;
+
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.maintext {
+    position: fixed;
+    top: 210px;
+    left: 315px;
+    width: 1450px;
+    height: 600px;
+    border: solid;
+    border-radius: 10px 10px 10px 10px / 10px 10px 10px 10px;
+    float: left;
+    padding: 50px;
+
+    font-size: 15px;
+    font-weight: bold;
+}
